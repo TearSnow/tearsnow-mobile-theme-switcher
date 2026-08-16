@@ -3,7 +3,7 @@ Contributors: TearSnow
 Donate link: https://tearsnow.com
 Tags: TearSnow, Fanly, mobile theme, theme switcher
 Requires at least: 6.0
-Tested up to: 7.0
+Tested up to: 7.1
 Stable tag: trunk
 Requires PHP: 7.4
 License: GPLv2 or later
